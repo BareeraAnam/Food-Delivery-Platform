@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+db.sqlite3
+media/
+staticfiles/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+firebase-service-account.json
